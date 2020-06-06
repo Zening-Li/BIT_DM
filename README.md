@@ -6,3 +6,7 @@
 ## 互评作业2
 
 代码在Assignment2目录下，详情请见Assignment2目录下README.md。
+
+## 互评作业3
+
+代码在Assignment3目录下，详情请见Assignment3目录下README.md。
